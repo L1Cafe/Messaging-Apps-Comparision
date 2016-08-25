@@ -37,6 +37,19 @@ E2EE = End-To-End Encrypted
 | Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :question:         | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Federated          | 
 
+|                  | Peerio             | 
+| :--------------: | :----------------: | 
+| :heart:          | 2                  | 
+| Country          | USA                | 
+| Free (no cost)   | Freemium           | 
+| Open source      | Client only        | 
+| E2EE text        | :heavy_check_mark: | 
+| Audio/video      | :x:                | 
+| E2EE audio/video | :x:                | 
+| Audited          | :heavy_check_mark: | 
+| Cross-platform   | heavy_check_mark   | 
+| Network model    | Centralised        | 
+
 ### Template:
 ```
 Name               | 
