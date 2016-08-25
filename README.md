@@ -17,7 +17,7 @@ E2EE = End-To-End Encrypted
 | Country          | USA                | USA                | Russia             | USA                | Japan              | :o:                | USA                |
 | Free (No cost)   | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: |
 | Open source      | :x:                | :x:                | Client only        | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |  
-| E2EE text        | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| E2EE chat        | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Audio/video      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
 | E2EE video/audio | :x:                | :x:                | :x:                | Audio only         | :x:                | :heavy_check_mark: | Audio only         |  
 | Audited          | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: |  
@@ -30,7 +30,7 @@ E2EE = End-To-End Encrypted
 | Country          | USA                | Japan              | USA                | Switzerland        | Switzerland        | :o:                |
 | Free (no cost)   | :heavy_check_mark: | :question:         | :question:         | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | Open source      | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
-| E2EE text        | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| E2EE chat        | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Audio/video      | :heavy_check_mark: | Audio only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | E2EE audio/video | :question:         | :o:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | Audited          | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :o:                | :x:                |
@@ -43,7 +43,7 @@ E2EE = End-To-End Encrypted
 | Country          | USA                | 
 | Free (no cost)   | Freemium           | 
 | Open source      | Client only        | 
-| E2EE text        | :heavy_check_mark: | 
+| E2EE chat        | :heavy_check_mark: | 
 | Audio/video      | :x:                | 
 | E2EE audio/video | :x:                | 
 | Audited          | :heavy_check_mark: | 
