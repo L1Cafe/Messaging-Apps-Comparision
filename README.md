@@ -13,6 +13,7 @@ We're only listing protocols and its official implementation. For example, not m
 |                  | Skype              | Hangouts           | Telegram           | WhatsApp           | Viber              | Tox                | Signal             |  
 | :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |  
 | :heart:          | 2128               | 813                | 637                | 431                | 246                | 214                | 155                |  
+| Pricing          | Freemium           | Free               | Free               | Free               | Freemium           | Free               | Free               |
 | Open source      | :x:                | :x:                | Client only        | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |  
 | E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Audio/video      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
@@ -20,23 +21,25 @@ We're only listing protocols and its official implementation. For example, not m
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
 
-|                  | LINE               | iMessage           | 
-| :--------------: | :----------------: | :----------------: | 
-| :heart:          | 76                 | 34                 | 
-| Open source      | :x:                | :x:                | 
-| E2EE             | :heavy_check_mark: | :heavy_check_mark: | 
-| Audio/video      | Voice only         | :x:                | 
-| E2EE video/audio | :o:                | :x:                | 
-| Network model    | Centralised        | Centralised        | Centralised        |
+|                  | LINE               | iMessage           | Wire               | 
+| :--------------: | :----------------: | :----------------: | :----------------: | 
+| :heart:          | 76                 | 34                 | 22                 | 
+| Pricing          | Freemium           | Freemium           | Free               | 
+| Open source      | :x:                | :x:                | :heavy_check_mark: | 
+| E2EE             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Audio/video      | Voice only         | :x:                | :heavy_check_mark: | 
+| E2EE video/audio | :o:                | :x:                | :heavy_check_mark: | 
+| Network model    | Centralised        | Centralised        | Centralised        | 
 
 ### Template:
 ```
 Name               | 
 :----------------: | 
 Likes              | 
+Pricing            | 
 Source             | 
 E2EE               | 
 AV                 | 
 E2EE AV            | 
-NM                 |
+NM                 | 
 ```
