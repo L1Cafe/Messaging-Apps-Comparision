@@ -6,7 +6,7 @@ We're only listing protocols and their official implementation. For example, not
 :o: = not enough data, undisclosed, unknown  
 :x: = no, zero  
 :question: = optional, incomplete, medium, limited  
-:heavy_check_mark: = yes, high  
+:heavy_check_mark: = yes, high, full
 
 :heart: = [AlternativeTo](https://alternativeto.net/) likes
 
@@ -22,16 +22,16 @@ We're only listing protocols and their official implementation. For example, not
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
 
-|                  | LINE               | iMessage           | Threema            | Wire               | 
-| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | 
-| :heart:          | 76                 | 34                 | 30                 | 22                 | 
-| Pricing          | Freemium           | Freemium           | Paid               | Free               | 
-| Open source      | :x:                | :x:                | :x:                | :heavy_check_mark: | 
-| E2EE text        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-| Audio/video      | Voice only         | :x:                | :x:                | :heavy_check_mark: | 
-| E2EE audio/video | :o:                | :x:                | :x:                | :heavy_check_mark: | 
-| Cross-platform   | :heavy_check_mark: | :question:         | :x:                | :heavy_check_mark: | 
-| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | 
+|                  | LINE               | iMessage           | Threema            | Wire               | Vector             | 
+| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | 
+| :heart:          | 76                 | 34                 | 30                 | 22                 | 17                 | 
+| Pricing          | Freemium           | Freemium           | Paid               | Free               | Free               | 
+| Open source      | :x:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
+| E2EE text        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Audio/video      | Voice only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
+| E2EE audio/video | :o:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
+| Cross-platform   | :heavy_check_mark: | :question:         | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
+| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Federated          | 
 
 ### Template:
 ```
