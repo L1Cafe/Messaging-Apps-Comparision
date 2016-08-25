@@ -8,7 +8,7 @@ We're only listing protocols and their official implementation. For example, not
 :question: = optional, incomplete, medium, limited  
 :heavy_check_mark: = yes, high, full
 
-:heart: = [AlternativeTo](https://alternativeto.net/) likes
+:heart: = [AlternativeTo](https://alternativeto.net/) likes  
 E2EE = End-To-End Encrypted
 
 |                  | Skype              | Hangouts           | Telegram           | WhatsApp           | Viber              | Tox                | Signal             |  
