@@ -20,7 +20,7 @@ We're only listing protocols and its official implementation. For example, not m
 
 |                   | Viber              | iMessage           | 
 | :--------------:  | :----------------: | :----------------: | 
-| :heart:           | 34                 | 34                 | 
+| :heart:           | 246                | 34                 | 
 | Open source       | :x:                | :x:                | 
 | E2EE              | :heavy_check_mark: | :x:                | 
 | Video/audio       | Audio only         | :x:                | 
