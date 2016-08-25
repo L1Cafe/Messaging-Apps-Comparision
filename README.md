@@ -20,11 +20,11 @@ We're only listing protocols and its official implementation. For example, not m
 
 |                   | Tox                | Viber              | LINE               | iMessage           | 
 | :--------------:  | :----------------: | :----------------: | :----------------: | :----------------: | 
-| :heart:           | 214                | 246               | 76                | 34                 | 
+| :heart:           | 214                | 246                | 76                 | 34                 | 
 | Open source       | :x:                | :x:                | :x:                | :x:                | 
 | E2EE              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | 
 | Video/audio       | :x:                | Audio only         | Voice only         | :x:                | 
-| E2EE video/audio  | :x:                |  :x:               | :o:               | :x:                | 
+| E2EE video/audio  | :x:                |  :x:               | :o:                | :x:                | 
 
 ### Template:
 ```
