@@ -19,7 +19,7 @@ E2EE = End-To-End Encrypted
 | E2EE text        | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Audio/video      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
 | E2EE video/audio | :x:                | :x:                | :x:                | Audio only         | :x:                | :heavy_check_mark: | Audio only         |  
-| Audited          | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: |
+| Audited          | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: |  
 | Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
@@ -50,9 +50,17 @@ Cross-platform     |
 NM                 | 
 ```
 
+### Missing apps:
+- Conversations (XMPP client)
+- Peerio
+- Facebook Messenger
+- Google Allo
+- Cryptocat
+
 ### TODO:
 - Plausible deniability
 - Forward secrecy
+- Contact verification
 - Message auto-destruction
 - Threat level (suspicion? PRISM? criticisms?)
 - Does it require e-mail, phone number, real name, Google, Facebook account, etc?
