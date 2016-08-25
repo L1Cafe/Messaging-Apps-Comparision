@@ -31,7 +31,7 @@ E2EE = End-To-End Encrypted
 | Free (no cost)   | Free               | :question:         | :question:         | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | Open source      | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | E2EE text        | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-| Audio/video      | :heavy_check_mark: | Voice only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
+| Audio/video      | :heavy_check_mark: | Audio only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | E2EE audio/video | :question:         | :o:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | Audited          | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :o:                | :x:                |
 | Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :question:         | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
