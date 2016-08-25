@@ -11,23 +11,25 @@ We're only listing protocols and their official implementation. For example, not
 :heart: = [AlternativeTo](https://alternativeto.net/) likes  
 E2EE = End-To-End Encrypted
 
-|                  | Skype              | Hangouts           | Telegram           | WhatsApp           | Viber              | Tox                | Signal             |  
-| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |  
-| :heart:          | 2128               | 813                | 637                | 431                | 246                | 214                | 155                |  
-| Pricing          | Freemium           | Free               | Free               | Free               | Freemium           | Free               | Free               |
-| Open source      | :x:                | :x:                | Client only        | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |  
-| E2EE text        | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
-| Audio/video      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
-| E2EE video/audio | :x:                | :x:                | :x:                | Audio only         | :x:                | :heavy_check_mark: | Audio only         |  
-| Audited          | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: |  
-| Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
-| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
+|                   | Skype              | Hangouts           | Telegram           | WhatsApp           | Viber              | Tox                | Signal             |  
+| :---------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |  
+| :heart:           | 2128               | 813                | 637                | 431                | 246                | 214                | 155                |  
+| Country           | :us:               | :us:               | :ru:               | :us:               | :jp:               | :o:                | :us:               |
+| Pricing           | Freemium           | :free:             | :free:             | :free:             | Freemium           | :free:             | :free:             |
+| Open source       | :x:                | :x:                | Client only        | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |  
+| E2EE text         | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| Audio/video       | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
+| E2EE video/audio  | :x:                | :x:                | :x:                | Audio only         | :x:                | :heavy_check_mark: | Audio only         |  
+| Audited           | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: |  
+| Cross-platform    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
+| Network model     | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
 
 |                  | LINE               | iMessage           | Threema            | Wire               | Vector             | 
 | :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | 
-| :heart:          | 76                 | 34                 | 30                 | 22                 | 17                 | 
-| Pricing          | Freemium           | Freemium           | Paid               | Free               | Free               | 
+| :heart:          | 76                 | 34                 | 30                 | 22                 | 17                 |
+| Country          | :jp:               | :us:               | Switzerland        | Switzerland        | :o:               |
+| Pricing          | Freemium           | Freemium           | Paid               | :free:             | :free:             | 
 | Open source      | :x:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | E2EE text        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Audio/video      | Voice only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
