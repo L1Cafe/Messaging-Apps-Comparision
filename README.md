@@ -54,3 +54,4 @@ NM                 |
 - Plausible deniability
 - Forward secrecy
 - Message auto-destruction
+- Threat level (suspicion? PRISM? criticisms?)
