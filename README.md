@@ -15,7 +15,7 @@ We're only listing protocols and their official implementation. For example, not
 | :heart:          | 2128               | 813                | 637                | 431                | 246                | 214                | 155                |  
 | Pricing          | Freemium           | Free               | Free               | Free               | Freemium           | Free               | Free               |
 | Open source      | :x:                | :x:                | Client only        | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |  
-| E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| E2EE text        | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Audio/video      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
 | E2EE video/audio | :x:                | :x:                | :x:                | Audio only         | :x:                | :heavy_check_mark: | Audio only         |  
 | Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
@@ -27,7 +27,7 @@ We're only listing protocols and their official implementation. For example, not
 | :heart:          | 76                 | 34                 | 30                 | 22                 | 
 | Pricing          | Freemium           | Freemium           | Paid               | Free               | 
 | Open source      | :x:                | :x:                | :x:                | :heavy_check_mark: | 
-| E2EE             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| E2EE text        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Audio/video      | Voice only         | :x:                | :x:                | :heavy_check_mark: | 
 | E2EE audio/video | :o:                | :x:                | :x:                | :heavy_check_mark: | 
 | Cross-platform   | :heavy_check_mark: | :question:         | :x:                | :heavy_check_mark: | 
