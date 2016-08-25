@@ -28,7 +28,7 @@ E2EE = End-To-End Encrypted
 | :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | 
 | :heart:          | 130                | 76                 | 34                 | 30                 | 22                 | 17                 |
 | Country          | USA                | Japan              | USA                | Switzerland        | Switzerland        | :o:                |
-| Free (no cost)   | Free               | :question:         | :question:         | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
+| Free (no cost)   | :heavy_check_mark: | :question:         | :question:         | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | Open source      | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | E2EE text        | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Audio/video      | :heavy_check_mark: | Audio only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
