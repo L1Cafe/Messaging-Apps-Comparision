@@ -5,7 +5,7 @@ We're only listing protocols and its official implementation. For example, not m
 ## Legend
 :o: = not enough data, undisclosed, unknown  
 :x: = no, zero  
-:question: = optional, incomplete, medium  
+:question: = optional, incomplete, medium, limited
 :heavy_check_mark: = yes, high  
 
 :heart: = [AlternativeTo](https://alternativeto.net/) likes
@@ -18,6 +18,7 @@ We're only listing protocols and its official implementation. For example, not m
 | E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Audio/video      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
 | E2EE video/audio | :x:                | :x:                | :x:                | Audio only         | :x:                | :heavy_check_mark: | Audio only         |  
+| Cross-platform   | :heavy_check_mark: | :question:         | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
 
@@ -29,6 +30,7 @@ We're only listing protocols and its official implementation. For example, not m
 | E2EE             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Audio/video      | Voice only         | :x:                | :heavy_check_mark: | 
 | E2EE video/audio | :o:                | :x:                | :heavy_check_mark: | 
+| Cross-platform   | :heavy_check_mark: | :question:         | :heavy_check_mark: | 
 | Network model    | Centralised        | Centralised        | Centralised        | 
 
 ### Template:
