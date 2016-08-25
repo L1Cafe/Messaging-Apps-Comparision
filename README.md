@@ -18,20 +18,20 @@ We're only listing protocols and its official implementation. For example, not m
 | E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Audio/video      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
 | E2EE video/audio | :x:                | :x:                | :x:                | Audio only         | :x:                | :heavy_check_mark: | Audio only         |  
-| Cross-platform   | :heavy_check_mark: | :question:         | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
+| Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
 
-|                  | LINE               | iMessage           | Wire               | 
-| :--------------: | :----------------: | :----------------: | :----------------: | 
-| :heart:          | 76                 | 34                 | 22                 | 
-| Pricing          | Freemium           | Freemium           | Free               | 
-| Open source      | :x:                | :x:                | :heavy_check_mark: | 
-| E2EE             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-| Audio/video      | Voice only         | :x:                | :heavy_check_mark: | 
-| E2EE video/audio | :o:                | :x:                | :heavy_check_mark: | 
-| Cross-platform   | :heavy_check_mark: | :question:         | :heavy_check_mark: | 
-| Network model    | Centralised        | Centralised        | Centralised        | 
+|                  | LINE               | iMessage           | Threema            | Wire               | 
+| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | 
+| :heart:          | 76                 | 34                 | 30                 | 22                 | 
+| Pricing          | Freemium           | Freemium           | Paid               | Free               | 
+| Open source      | :x:                | :x:                | :x:                | :heavy_check_mark: | 
+| E2EE             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Audio/video      | Voice only         | :x:                | :x:                | :heavy_check_mark: | 
+| E2EE video/audio | :o:                | :x:                | :x:                | :heavy_check_mark: | 
+| Cross-platform   | :heavy_check_mark: | :question:         | :x:                | :heavy_check_mark: | 
+| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | 
 
 ### Template:
 ```
@@ -43,5 +43,6 @@ Source             |
 E2EE               | 
 AV                 | 
 E2EE AV            | 
+Cross-platform     | 
 NM                 | 
 ```
