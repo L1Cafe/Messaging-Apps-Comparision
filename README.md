@@ -60,3 +60,4 @@ NM                 |
 - Stickers, GIFs
 - Bot API
 - Extra features (channels? customizable usernames?)
+- Privacy: Can you hide last seen?
