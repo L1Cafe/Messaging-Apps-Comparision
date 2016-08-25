@@ -18,6 +18,7 @@ We're only listing protocols and their official implementation. For example, not
 | E2EE text        | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
 | Audio/video      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | Audio only         |  
 | E2EE video/audio | :x:                | :x:                | :x:                | Audio only         | :x:                | :heavy_check_mark: | Audio only         |  
+| Audited          | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :o:                | :heavy_check_mark: |
 | Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
@@ -30,6 +31,7 @@ We're only listing protocols and their official implementation. For example, not
 | E2EE text        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Audio/video      | Voice only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | E2EE audio/video | :o:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
+| Audited          |
 | Cross-platform   | :heavy_check_mark: | :question:         | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Federated          | 
 
