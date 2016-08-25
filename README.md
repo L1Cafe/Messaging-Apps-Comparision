@@ -55,3 +55,8 @@ NM                 |
 - Forward secrecy
 - Message auto-destruction
 - Threat level (suspicion? PRISM? criticisms?)
+- Does it require e-mail, phone number, real name, Google, Facebook account, etc?
+- Two Factor Auth
+- Stickers, GIFs
+- Bot API
+- Extra features (channels? customizable usernames?)
