@@ -24,7 +24,7 @@ E2EE = End-To-End Encrypted
 | Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question:         | :heavy_check_mark: | :heavy_check_mark: | :question:         |  
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
-|                  | FB Messenger       | LINE               | iMessage           | Threema            | Wire               | Vector             | 
+|                  | Fb Messenger       | LINE               | iMessage           | Threema            | Wire               | Vector             | 
 | :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | 
 | :heart:          | 130                | 76                 | 34                 | 30                 | 22                 | 17                 |
 | Country          | USA                | Japan              | USA                | Switzerland        | Switzerland        | :o:                |
