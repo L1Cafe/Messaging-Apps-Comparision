@@ -10,23 +10,23 @@ We're only listing protocols and its official implementation. For example, not m
 
 :heart: = [AlternativeTo](https://alternativeto.net/) likes
 
-|                  | Skype              | Hangouts           | Telegram           | WhatsApp           |
-| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: |
-| :heart:          | 2128               | 813                | 637                | 431                |
-| Open source      | :x:                | :x:                | Client only        | :x:                |
-| E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: |
-| Video/audio      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         |
-| E2EE video/audio | :x:                | :x:                | :x:                | :heavy_check_mark: |
-| Network model    | Centralised        | Centralised        | Centralised        | Centralised        |
+|                  | Skype              | Hangouts           | Telegram           | WhatsApp           | Viber              |  
+| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |  
+| :heart:          | 2128               | 813                | 637                | 431                | 246                |  
+| Open source      | :x:                | :x:                | Client only        | :x:                | :x:                |  
+| E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: |  
+| Video/audio      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         |  
+| E2EE video/audio | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:                |  
+| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        |  
 
-|                  | Viber              | Tox                |
-| :--------------: | :----------------: | :----------------: |
-| :heart:          | 246                | 214                |
-| Open source      | :x:                | :heavy_check_mark: |
-| E2EE             | :heavy_check_mark: | :heavy_check_mark: |
-| Video/audio      | Audio only         | :heavy_check_mark: |
-| E2EE video/audio | :x:                | :heavy_check_mark: |
-| Network model    | Centralised        | Peer-to-peer       | Centralised        |
+|                  | Tox                |
+| :--------------: | :----------------: |
+| :heart:          | 214                |
+| Open source      | :heavy_check_mark: |
+| E2EE             | :heavy_check_mark: |
+| Video/audio      | :heavy_check_mark: |
+| E2EE video/audio | :heavy_check_mark: |
+| Network model    | Peer-to-peer       | Centralised        |
 
 
 |                  | LINE               | iMessage           | 
