@@ -18,20 +18,21 @@ We're only listing protocols and its official implementation. For example, not m
 | Video/audio      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         |
 | E2EE video/audio | :x:                | :x:                | :x:                | :heavy_check_mark: |
 
-|                   | Viber              | iMessage           | 
-| :--------------:  | :----------------: | :----------------: | 
-| :heart:           | 246                | 34                 | 
-| Open source       | :x:                | :x:                | 
-| E2EE              | :heavy_check_mark: | :x:                | 
-| Video/audio       | Audio only         | :x:                | 
-| E2EE video/audio  | :x:                | :x:                | 
+|                   | Tox                | Viber              | LINE               | iMessage           | 
+| :--------------:  | :----------------: | :----------------: | :----------------: | :----------------: | 
+| :heart:           | 214                | 246               | 76                | 34                 | 
+| Open source       | :x:                | :x:                | :x:                | :x:                | 
+| E2EE              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | 
+| Video/audio       | :x:                | Audio only         | Voice only         | :x:                | 
+| E2EE video/audio  | :x:                |  :x:               | :o:               | :x:                | 
 
 ### Template:
-
- | iMessage           |  
- | :----------------: |  
- | 34                 |  
- | :x:                |  
- | :heavy_check_mark: |  
- | :x:                |  
- | :x:                |  
+```
+iMessage           | 
+:----------------: | 
+34                 | 
+:x:                | 
+:heavy_check_mark: | 
+:x:                | 
+:x:                | 
+```
