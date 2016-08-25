@@ -10,14 +10,14 @@ We're only listing protocols and its official implementation. For example, not m
 
 :heart: = [AlternativeTo](https://alternativeto.net/) likes
 
-|                  | Skype              | Hangouts           | Telegram           | WhatsApp           | Viber              | Tox                |  
-| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |  
-| :heart:          | 2128               | 813                | 637                | 431                | 246                | 214                |  
-| Open source      | :x:                | :x:                | Client only        | :x:                | :x:                | :heavy_check_mark: |  
-| E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
-| Video/audio      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: |  
-| E2EE video/audio | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: |  
-| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       |  
+|                  | Skype              | Hangouts           | Telegram           | WhatsApp           | Viber              | Tox                | iMessage           |  
+| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |  
+| :heart:          | 2128               | 813                | 637                | 431                | 246                | 214                | 34                 |  
+| Open source      | :x:                | :x:                | Client only        | :x:                | :x:                | :heavy_check_mark: | :x:                |  
+| E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  
+| Video/audio      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         | Audio only         | :heavy_check_mark: | :x:                |  
+| E2EE video/audio | :x:                | :x:                | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :x:                |  
+| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | :x:                |  
 
 
 |                  | LINE               | iMessage           | 
@@ -38,4 +38,5 @@ iMessage           |
 :heavy_check_mark: | 
 :x:                | 
 :x:                | 
+:x:                |
 ```
