@@ -1,11 +1,11 @@
 # Messaging Apps Comparision
-A quick reference comparing different messaging apps and its features.
-We're only listing protocols and its official implementation. For example, not multiprotocol messengers like Pidgin or Trillian which have many more variables to be taken into account.
+A quick reference comparing different messaging apps and their features.
+We're only listing protocols and their official implementation. For example, not multiprotocol messengers like Pidgin or Trillian which have many more variables to be taken into account.
 
 ## Legend
 :o: = not enough data, undisclosed, unknown  
 :x: = no, zero  
-:question: = optional, incomplete, medium, limited
+:question: = optional, incomplete, medium, limited  
 :heavy_check_mark: = yes, high  
 
 :heart: = [AlternativeTo](https://alternativeto.net/) likes
