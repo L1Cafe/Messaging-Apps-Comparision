@@ -17,14 +17,26 @@ We're only listing protocols and its official implementation. For example, not m
 | E2EE             | :x:                | :x:                | :question:         | :heavy_check_mark: |
 | Video/audio      | :heavy_check_mark: | :heavy_check_mark: | :x:                | Audio only         |
 | E2EE video/audio | :x:                | :x:                | :x:                | :heavy_check_mark: |
+| Network model    | Centralised        | Centralised        | Centralised        | Centralised        |
 
-|                   | Tox                | Viber              | LINE               | iMessage           | 
-| :--------------:  | :----------------: | :----------------: | :----------------: | :----------------: | 
-| :heart:           | 214                | 246                | 76                 | 34                 | 
-| Open source       | :x:                | :x:                | :x:                | :x:                | 
-| E2EE              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x:                | 
-| Video/audio       | :x:                | Audio only         | Voice only         | :x:                | 
-| E2EE video/audio  | :x:                |  :x:               | :o:                | :x:                | 
+|                  | Viber              | Tox                |
+| :--------------: | :----------------: | :----------------: |
+| :heart:          | 246                | 214                |
+| Open source      | :x:                | :heavy_check_mark: |
+| E2EE             | :heavy_check_mark: | :heavy_check_mark: |
+| Video/audio      | Audio only         | :heavy_check_mark: |
+| E2EE video/audio | :x:                | :heavy_check_mark: |
+| Network model    | Centralised        | Peer-to-peer       | Centralised        |
+
+
+|                  | LINE               | iMessage           | 
+| :--------------: | :----------------: | :----------------: | 
+| :heart:          | 76                 | 34                 | 
+| Open source      | :x:                | :x:                | 
+| E2EE             | :heavy_check_mark: | :heavy_check_mark: | 
+| Video/audio      | Voice only         | :x:                | 
+| E2EE video/audio | :o:                | :x:                | 
+| Network model    | Centralised        | Centralised        | Centralised        |
 
 ### Template:
 ```
