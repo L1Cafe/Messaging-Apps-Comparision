@@ -29,7 +29,7 @@ We're only listing protocols and its official implementation. For example, not m
 | Open source      | :x:                | :x:                | :x:                | :heavy_check_mark: | 
 | E2EE             | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Audio/video      | Voice only         | :x:                | :x:                | :heavy_check_mark: | 
-| E2EE video/audio | :o:                | :x:                | :x:                | :heavy_check_mark: | 
+| E2EE audio/video | :o:                | :x:                | :x:                | :heavy_check_mark: | 
 | Cross-platform   | :heavy_check_mark: | :question:         | :x:                | :heavy_check_mark: | 
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | 
 
