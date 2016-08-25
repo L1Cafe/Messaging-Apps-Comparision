@@ -68,7 +68,6 @@ NM                 |
 
 ### Missing apps:
 - Conversations (XMPP client)
-- Peerio
 - Google Allo
 - Cryptocat
 
