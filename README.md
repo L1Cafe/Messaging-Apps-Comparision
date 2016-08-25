@@ -3,9 +3,9 @@ A quick reference comparing different messaging apps and its features.
 We're only listing protocols and its official implementation. For example, not multiprotocol messengers like Pidgin or Trillian which have many more variables to be taken into account.
 
 ## Legend
-:x: = no  
-:question: = optional, incomplete  
-:heavy_check_mark: = yes  
+:x: = no, zero  
+:question: = optional, incomplete, medium  
+:heavy_check_mark: = yes, high  
 
 :heart: = [AlternativeTo](https://alternativeto.net/) likes
 
