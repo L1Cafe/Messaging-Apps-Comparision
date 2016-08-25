@@ -49,3 +49,8 @@ E2EE AV            |
 Cross-platform     | 
 NM                 | 
 ```
+
+### TODO:
+- Plausible deniability
+- Forward secrecy
+- Message auto-destruction
