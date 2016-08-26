@@ -47,7 +47,7 @@ E2EE = End-To-End Encrypted
 | Audio/video      | :x:                | 
 | E2EE audio/video | :x:                | 
 | Audited          | :heavy_check_mark: | 
-| Cross-platform   | heavy_check_mark   | 
+| Cross-platform   | :heavy_check_mark: |
 | Network model    | Centralised        | 
 
 ### Template:
