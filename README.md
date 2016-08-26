@@ -70,6 +70,8 @@ NM                 |
 - Conversations (XMPP client)
 - Google Allo
 - Cryptocat
+- Slack
+- HipChat
 
 ### TODO:
 - Plausible deniability
