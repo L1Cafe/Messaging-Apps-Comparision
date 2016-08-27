@@ -24,46 +24,46 @@ E2EE = End-To-End Encrypted
 | Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :o:                | :heavy_check_mark: | :heavy_check_mark: | :o:                |  
 | Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Peer-to-peer       | Centralised        |  
 
-|                  | Fb Messenger       | LINE               | iMessage           | Threema            | Wire               | Vector             | 
-| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | 
+|                  | Fb Messenger       | LINE               | iMessage           | Threema            | Wire               | Vector             |
+| :--------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: | :----------------: |
 | :heart:          | 130                | 76                 | 34                 | 30                 | 22                 | 17                 |
 | Country          | USA                | Japan              | USA                | Switzerland        | Switzerland        | :question:         |
-| Free (no cost)   | :heavy_check_mark: | :o:                | :o:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
-| Open source      | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
-| E2EE chat        | :o:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
-| Audio/video      | :heavy_check_mark: | Audio only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
-| E2EE audio/video | :o:                | :o:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
+| Free (no cost)   | :heavy_check_mark: | :o:                | :o:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |
+| Open source      | :x:                | :x:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |
+| E2EE chat        | :o:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Audio/video      | :heavy_check_mark: | Audio only         | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |
+| E2EE audio/video | :o:                | :o:                | :x:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |
 | Audited          | :x:                | :o:                | :heavy_check_mark: | :heavy_check_mark: | :o:                | :x:                |
-| Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :o:                | :x:                | :heavy_check_mark: | :heavy_check_mark: | 
-| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Federated          | 
+| Cross-platform   | :heavy_check_mark: | :heavy_check_mark: | :o:                | :x:                | :heavy_check_mark: | :heavy_check_mark: |
+| Network model    | Centralised        | Centralised        | Centralised        | Centralised        | Centralised        | Federated          |
 
-|                  | Peerio             | 
-| :--------------: | :----------------: | 
-| :heart:          | 2                  | 
-| Country          | USA                | 
-| Free (no cost)   | Freemium           | 
-| Open source      | Client only        | 
-| E2EE chat        | :heavy_check_mark: | 
-| Audio/video      | :x:                | 
-| E2EE audio/video | :x:                | 
-| Audited          | :heavy_check_mark: | 
+|                  | Peerio             |
+| :--------------: | :----------------: |
+| :heart:          | 2                  |
+| Country          | USA                |
+| Free (no cost)   | Freemium           |
+| Open source      | Client only        |
+| E2EE chat        | :heavy_check_mark: |
+| Audio/video      | :x:                |
+| E2EE audio/video | :x:                |
+| Audited          | :heavy_check_mark: |
 | Cross-platform   | :heavy_check_mark: |
-| Network model    | Centralised        | 
+| Network model    | Centralised        |
 
 ### Template:
 ```
-Name               | 
-:----------------: | 
-Likes              | 
-Country            | 
-Pricing            | 
-Source             | 
-E2EE               | 
-AV                 | 
-E2EE AV            | 
-Audited            | 
-Cross-platform     | 
-NM                 | 
+Name               |
+:----------------: |
+Likes              |
+Country            |
+Pricing            |
+Source             |
+E2EE               |
+AV                 |
+E2EE AV            |
+Audited            |
+Cross-platform     |
+NM                 |
 ```
 
 ### Missing apps:
@@ -72,6 +72,7 @@ NM                 |
 - Cryptocat
 - Slack
 - HipChat
+- Wickr
 
 ### TODO:
 - Plausible deniability
