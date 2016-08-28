@@ -66,6 +66,7 @@ NM                 |
 - Sicher
 - Kik
 - WeChat
+- Rocket chat
 
 ### TODO:
 - Threat level (suspicion? PRISM? criticisms?)
